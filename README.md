@@ -2,7 +2,7 @@
 
 ## I'm a MERN Stack Developer!
 
-- 🔭 I’m currently looking for my first dev job
+- 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I am cricket lover
@@ -21,7 +21,7 @@
 <br />
 
 
-<details>
+<details open>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Avinash7986&show_icons=true&hide_border=true" />
