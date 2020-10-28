@@ -30,5 +30,5 @@
 
 <br/>
 
-<p align='center'>For enquiries, reach out @avinash7986 or over on <a href="https://twitter.com/avinash7986">Twitter</a>.</p>
+<p align='center'>For enquiries, contact me at avinashsingh7986@gmail.com or over on <a href="https://twitter.com/avinash7986">Twitter</a>.</p>
 
