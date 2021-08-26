@@ -2,7 +2,7 @@
 
 ## I'm a MERN Stack Developer!
 
-- 🔭 I’m currently looking for a job
+- 🔭 I’m currently working on awesome projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I am cricket lover
