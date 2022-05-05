@@ -20,7 +20,8 @@
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">&nbsp;&nbsp;&nbsp;
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="react" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/d/d9/20160324173914%21Node.js_logo.svg/120px-Node.js_logo.svg.png" alt="nodejs" width="auto" height="40"/>
 <p align="center">
   
 <br>
