@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Avinash Kumar Singh</h1>
+<h1 align="center">Hi 👋, I'm Avinash Kumar Singh</h1>
 <h3 align="center">Full Stack developer who aims to write quality code</h3>
 
 <div align=center>
