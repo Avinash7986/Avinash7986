@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar Singh</h1>
-<h3 align="center">Full Stack developer who aims to write quality code</h3>
+<h3 align="center">Frontend Developer who aims to write quality code</h3>
 
 <div align=center>
   <a href="https://www.linkedin.com/in/avinash-kumar-singh-0ba214127/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
@@ -8,7 +8,7 @@
  <p><img src="https://komarev.com/ghpvc/?username=avinash7986" alt="avinash" /></p>
 </div>
 
-- 👨‍💻 I am a full stack developer with focus on web fundamentals. I work at Alchemy TheeCode to deliver the quality products.
+- 👨‍💻 I am a full stack developer with focus on web fundamentals. I work at Commutatus to deliver the quality products.
 
 - 📫 The best way to reach me over is [Linkedin](https://www.linkedin.com/in/avinash-kumar-singh-0ba214127/). You can also send me a mail to         avinashsingh7986@gmail.com.
 
