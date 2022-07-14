@@ -8,7 +8,7 @@
  <p><img src="https://komarev.com/ghpvc/?username=avinash7986" alt="avinash" /></p>
 </div>
 
-- 👨‍💻 I am a full stack developer with focus on web fundamentals. I work at Commutatus to deliver the quality products.
+- 👨‍💻 I am a frontend developer with focus on web fundamentals. I work at Commutatus to deliver the quality products.
 
 - 📫 The best way to reach me over is [Linkedin](https://www.linkedin.com/in/avinash-kumar-singh-0ba214127/). You can also send me a mail to         avinashsingh7986@gmail.com.
 
