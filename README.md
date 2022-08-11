@@ -3,7 +3,6 @@
 
 <div align=center>
   <a href="https://www.linkedin.com/in/avinash-kumar-singh-0ba214127/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
-  <a href="https://twitter.com/Avinash7986"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>
   <br><br>
  <p><img src="https://komarev.com/ghpvc/?username=avinash7986" alt="avinash" /></p>
 </div>
